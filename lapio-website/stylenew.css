@@ -1,10 +1,16 @@
 .first-box-container {
+    text-transform: capitalize;
     float: left;
     margin-right: 20 px;
     width: 200px;
     height: 100px;
     background-color: red;
-
+    text-align: center;
+    border-style: solid;
+    border-color: green;
+    border-width: thick;
+    font-family: "Times New Roman", Times, serif;
+    text-transform: uppercase;
 }
 
 .second-box-container {
@@ -13,6 +19,12 @@
     width: 200px;
     height: 100px;
     background-color: yellow;
+    text-align: center;
+    border-style: solid;
+    border-color: red;
+    border-width: thick;
+    font-family: "Times New Roman", Times, serif;
+    text-transform: uppercase;
 }
 
 .third-box-container {
@@ -21,4 +33,10 @@
     width: 200px;
     height: 100px;
     background-color: green;
+    text-align: center;
+    border-style: solid;
+    border-color: yellow;
+    border-width: thick;
+    text-transform: uppercase;
+    font-family: "Times New Roman", Times, serif;
 }
