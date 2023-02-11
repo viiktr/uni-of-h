@@ -1,0 +1,24 @@
+.first-box-container {
+    float: left;
+    margin-right: 20 px;
+    width: 200px;
+    height: 100px;
+    background-color: red;
+
+}
+
+.second-box-container {
+    float: left;
+    margin-right: 20 px;
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+}
+
+.third-box-container {
+    float: left;
+    margin-right: 20 px;
+    width: 200px;
+    height: 100px;
+    background-color: green;
+}
