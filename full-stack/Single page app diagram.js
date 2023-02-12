@@ -1,5 +1,5 @@
 ---
-Single-page app version of the notes app
+title: Single-page app version of the notes app (0.5)
 ---
 sequenceDiagram
     participant User
